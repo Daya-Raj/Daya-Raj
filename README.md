@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Daya Raj
 
-<!--
-**Daya-Raj/Daya-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Web Developer & Machine Learning Enthusiast  
+💡 Problem Solver | DSA | Java | Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Web Development
+- Machine Learning Basics
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Java | Python  
+- 🌐 HTML | CSS | JavaScript  
+- 🔧 Git & GitHub  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/daya-raj-7b2a4b389/
+
+---
+
+## ⚡ About Me
+- I enjoy solving problems and building projects  
+- Currently improving my coding and development skills  
+- Focused on becoming a strong software developer  
+
+---
+
+⭐️ Keep learning. Keep building.
