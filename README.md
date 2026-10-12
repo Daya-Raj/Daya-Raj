@@ -1,13 +1,13 @@
 
 <div align="center">
 
-### My Contributions
+### ----My Contributions---
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
 <br><br>
 
-### `daya@github ~ $ whoami`
+### ----About----
 
 <table>
   <tr>
