@@ -15,7 +15,7 @@
       <img src="./daya-ascii.svg" width="370" alt="Daya Raj ASCII portrait" />
     </td>
     <td valign="top">
-      <img src="./info-card.svg" width="490" alt="Daya Raj developer information card" />
+      <img src="./developer-illustration.png" width="400" alt="Monochrome developer workspace" />
     </td>
   </tr>
 </table>
