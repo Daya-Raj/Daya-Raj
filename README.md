@@ -7,17 +7,16 @@
 
 <br><br>
 
-### ----About----
+<h3 align="center">----About----</h3>
 
-<table>
+ <table align="center">
   <tr>
-    <td valign="top">
-      <img src="./daya-ascii.svg" width="370" alt="Daya Raj ASCII portrait" />
-    </td>
-    <td valign="top">
+    <td align="center" width="50%">
       <img src="./developer-illustration.png" width="400" alt="Monochrome developer workspace" />
     </td>
+    <td align="center" width="50%">
+      <img src="./info-card.svg" width="400" alt="Developer information card" />
+    </td>
   </tr>
-</table>
-
+ </table>
 </div>
