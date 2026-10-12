@@ -1,0 +1,7 @@
+
+.venv/
+__pycache__/
+*.pyc
+Daya-Raj.jpeg.jpeg
+source-prepped.png
+README_Backup.md

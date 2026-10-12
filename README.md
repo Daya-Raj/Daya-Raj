@@ -1,34 +1,23 @@
-# Hi 👋, I'm Daya Raj
 
-🚀 Aspiring Web Developer & Machine Learning Enthusiast  
-💡 Problem Solver | DSA | Java | Python  
+<div align="center">
 
----
+### `daya@github ~ $ ./contributions.sh`
 
-## 🌱 Currently Learning
-- Data Structures & Algorithms
-- Web Development
-- Machine Learning Basics
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
----
+<br><br>
 
-## 🛠️ Tech Stack
-- 💻 Java | Python  
-- 🌐 HTML | CSS | JavaScript  
-- 🔧 Git & GitHub  
+### `daya@github ~ $ whoami`
 
----
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./daya-ascii.svg" width="370" alt="Daya Raj ASCII portrait" />
+    </td>
+    <td valign="top">
+      <img src="./info-card.svg" width="490" alt="Daya Raj developer information card" />
+    </td>
+  </tr>
+</table>
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/daya-raj-7b2a4b389/
-
----
-
-## ⚡ About Me
-- I enjoy solving problems and building projects  
-- Currently improving my coding and development skills  
-- Focused on becoming a strong software developer  
-
----
-
-⭐️ Keep learning. Keep building.
+</div>
