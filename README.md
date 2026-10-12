@@ -1,7 +1,7 @@
 
 <div align="center">
 
-### `daya@github ~ $ ./contributions.sh`
+### My Contributions
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
